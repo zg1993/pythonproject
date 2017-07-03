@@ -73,7 +73,6 @@ def saveFile(event=None):
 			fs.write(contents.encode('utf8')) #new document encode:'utf8'
 	else:
 		saveAsFile()
-	#fielname = 
 
 
 #edit
